@@ -1,0 +1,6 @@
+
+{
+  "name": "Farhan Trade",
+  "description": "High-fidelity trading dashboard for Farhan Trade, specializing in MT5-style liquidity sweep and FVG detection with UTC+6 automated signaling.",
+  "requestFramePermissions": []
+}
